@@ -1,1 +1,1 @@
-Prints absolute path name
+Display file contents list
