@@ -1,2 +1,3 @@
 #!/bin/bash
-echo /tmp/correct/6404186771206618191361860744338257985803_/205/118712/0x00-shell_basicss
+pwd
+

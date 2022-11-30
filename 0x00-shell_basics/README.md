@@ -1,1 +1,1 @@
-My current position
+Prints absolute path name
