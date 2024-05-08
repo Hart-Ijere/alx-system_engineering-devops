@@ -1,7 +1,14 @@
+
 #!/usr/bin/env ruby
-inputString = ARGV[0]
+input_string = ARGV[0].to_s
 pattern = /School/
-matchedText = match(inputString)
+matched_text = input_string.match(pattern)
+
+if matched_text
+  puts "Match found: #{matched_text[0]}"
+else
+  puts "No match found."
+end
 
 
 
