@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+# Print a string x9 and then change
+
+if [ $count -eq 9 ]; then
+  echo "Best School"
+  echo "Hi"
+else
+  echo "Best School"
+fi
